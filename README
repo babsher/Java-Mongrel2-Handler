@@ -1,0 +1,10 @@
+2/24/2011
+
+I copied this from here: http://www.paperculture.com/code/java-mongrel2-handler.html
+
+There was a bug in the parse method that I fixed.
+
+    * ZeroMQ 2.1.1
+    * jzmq lastest from git Feb 24th, 2011
+    * Mongrel2: fossil version pulled on Feb 24th, 2011
+
